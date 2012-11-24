@@ -1,0 +1,34 @@
+10
+
+dir
+46
+svn+ssh://vine.stanford.edu/afs/ir.stanford.edu/users/t/i/tianzhao/cs108Final/FinalProject/trunk/FinalProject/login
+svn+ssh://vine.stanford.edu/afs/ir.stanford.edu/users/t/i/tianzhao/cs108Final
+
+
+
+2012-11-22T01:53:20.146695Z
+42
+hungj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a9567fc-f4b5-4dd1-b5b7-db14e17db7b3
+
+listenerPackage
+dir
+
+loginPackage
+dir
+
